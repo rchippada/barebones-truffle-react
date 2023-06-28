@@ -2,11 +2,11 @@
   "ignore": [
   ],
   "commands": {
-    "To compile contracts": "truffle compile",
-    "To migrate contracts": "truffle migrate",
-    "To test contracts": "truffle test"
-    "To build dev server": "npm install",
-    "To run dev server": "npm run start",
+    "Compile contracts": "truffle compile",
+    "Migrate contracts": "truffle migrate",
+    "Test contracts": "truffle test",
+    "Build dev server": "npm install",
+    "Run dev server": "npm run start"
   },
   "hooks": {
     "post-unpack": ""
