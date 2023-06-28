@@ -1,8 +1,10 @@
-/client/node_modules
-/truffle/node_modules
-/client/build
-/truffle/build
-/client/src/contracts
+client/node_modules
+truffle/node_modules
+client/build
+truffle/build
+client/src/contracts
+truffle/package.json
+truffle/package-lock.json
 
 .DS_Store
 .env
