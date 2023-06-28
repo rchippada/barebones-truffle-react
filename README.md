@@ -18,7 +18,7 @@
 
 * Execute the following commands in a terminal
   * npm install -g truffle; npm install -g ganache
-  * cd barebones-react-app; cp  .env.sample  .env
+  * cd barebones-truffle-react; cp  .env.sample  .env
   * cd truffle;  npm install --save dotenv;  npm install --save truffle-assertions
   
 * Run `ganache` in one terminal
