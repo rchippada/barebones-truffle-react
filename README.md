@@ -17,7 +17,8 @@
 * This repository uses the `ganache` environemnt to test. You can also use `develop` or `dashboard` environments if you prefer
 
 * Execute the following commands in a terminal
-  * cp  .env.sample  .env
+  * npm install -g truffle; npm install -g ganache
+  * cd barebones-react-app; cp  .env.sample  .env
   * cd truffle;  npm install --save dotenv;  npm install --save truffle-assertions
   
 * Run `ganache` in one terminal
